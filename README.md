@@ -4,9 +4,9 @@ This project aims to provide personalized fashion recommendations based on image
 
  ![image](https://github.com/muhammad-luay/Personalised-Fashion-Recommendation/assets/62732628/664e666c-50a7-47a3-8450-af4e2746a6f4)
 
- ![image]("https://github.com/muhammad-luay/Personalised-Fashion-Recommendation/assets/62732628/e34c1de8-d9be-462c-b2c0-224200cb7df8")
+ ![image](https://github.com/muhammad-luay/Personalised-Fashion-Recommendation/assets/62732628/e34c1de8-d9be-462c-b2c0-224200cb7df8)
 
- ![image]("https://github.com/muhammad-luay/Personalised-Fashion-Recommendation/assets/62732628/be092821-3fdf-41dc-8e9d-5d13c88edf95")
+ ![image](https://github.com/muhammad-luay/Personalised-Fashion-Recommendation/assets/62732628/be092821-3fdf-41dc-8e9d-5d13c88edf95)
 
 
 
